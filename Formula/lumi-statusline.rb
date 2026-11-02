@@ -1,8 +1,8 @@
 class LumiStatusline < Formula
   desc "Claude Code status line with absolute context and subscription limits"
   homepage "https://github.com/illumichente/lumi-statusline"
-  url "https://github.com/illumichente/lumi-statusline/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "772007cd9fbbb1de6ee81eee0cbf31063dfd70441a7fe45f6e7dd018c0abb0f4"
+  url "https://github.com/illumichente/lumi-statusline/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "d50f876954edba0db3b7ab9b0057b9a7432bb575fecc59017b76a311a2581edb"
   license "MIT"
 
   uses_from_macos "jq", since: :sequoia
